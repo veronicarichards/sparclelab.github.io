@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "Blog"
-    url: https://sbresnahan.github.io/blog
+  - title: "About"
+    url: /
   - title: "Software"
-    url: https://sbresnahan.github.io/software
+    url: /software
   - title: "Publications"
-    url: https://sbresnahan.github.io/publications
+    url: https://scholar.google.com/citations?hl=en&user=yqoHycoAAAAJ
+  - title: "CV"
+    url: /CV

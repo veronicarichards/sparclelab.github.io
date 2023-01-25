@@ -6,16 +6,18 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 16 !default;
+$doc-font-size: 14 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
-$serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+/* $serif: Georgia, Times, serif !default; */
+$serif: 'Hubot Sans', serif !default;
+/* $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default; */
+$sans-serif: 'Mona Sans', sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
@@ -29,8 +31,27 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
+/* custom typefaces*/
+@font-face {
+   font-family: 'Mona Sans';
+   src:
+     url('Mona-Sans.woff2') format('woff2 supports variations'),
+     url('Mona-Sans.woff2') format('woff2-variations');
+   font-weight: 200 900;
+   font-stretch: 75% 125%;
+ }
+
+ @font-face {
+   font-family: 'Hubot Sans';
+   src:
+     url('Hubot-Sans.woff2') format('woff2 supports variations'),
+     url('Hubot-Sans.woff2') format('woff2-variations');
+   font-weight: 200 900;
+   font-stretch: 75% 125%;
+ }
+
 $global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
+$header-font-family: $serif !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
