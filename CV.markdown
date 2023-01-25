@@ -3,8 +3,6 @@ layout: single
 author_profile: true
 ---
 
-# CV
-
 [PDF version](/assets/docs/STB_CV_012523.pdf)
 
 ## Education
