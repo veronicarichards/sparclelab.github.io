@@ -612,7 +612,7 @@ a.reversefootnote {
     }
   }
 
-@media (max-width: 800px){
+@media (max-width: 1200px), (max-height: 1200px){
   .header-video-container {
     display: none;
   }
