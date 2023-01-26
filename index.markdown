@@ -6,6 +6,12 @@ header:
     provider: youtube
 author_profile: true
 gallery:
+  - url: /assets/images/image-gallery/img11.png
+    image_path: /assets/images/image-gallery-thumbs/img11.png
+  - url: /assets/images/image-gallery/img12.png
+    image_path: /assets/images/image-gallery-thumbs/img12.png
+  - url: /assets/images/image-gallery/img32.png
+    image_path: /assets/images/image-gallery-thumbs/img32.png
   - url: /assets/images/image-gallery/img29.png
     image_path: /assets/images/image-gallery-thumbs/img29.png
   - url: /assets/images/image-gallery/img30.png
@@ -24,10 +30,6 @@ gallery:
     image_path: /assets/images/image-gallery-thumbs/img9.png
   - url: /assets/images/image-gallery/img10.png
     image_path: /assets/images/image-gallery-thumbs/img10.png
-  - url: /assets/images/image-gallery/img11.png
-    image_path: /assets/images/image-gallery-thumbs/img11.png
-  - url: /assets/images/image-gallery/img12.png
-    image_path: /assets/images/image-gallery-thumbs/img12.png
   - url: /assets/images/image-gallery/img13.png
     image_path: /assets/images/image-gallery-thumbs/img13.png
   - url: /assets/images/image-gallery/img14.png
@@ -50,8 +52,6 @@ gallery:
     image_path: /assets/images/image-gallery-thumbs/img26.png
   - url: /assets/images/image-gallery/img31.png
     image_path: /assets/images/image-gallery-thumbs/img31.png
-  - url: /assets/images/image-gallery/img32.png
-    image_path: /assets/images/image-gallery-thumbs/img32.png
   - url: /assets/images/image-gallery/img34.png
     image_path: /assets/images/image-gallery-thumbs/img34.png
   - url: /assets/images/image-gallery/img1.png
