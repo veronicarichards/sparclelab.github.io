@@ -23,8 +23,12 @@
   </div>
 {% endunless %}-->
 
+
 {% unless video_src == "" %}
-  <div class="header-video-container">
-	  <iframe src="{{ video_src }}" allow="autoplay" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+  <div class="mobileHide">
+    <div class="header-video-container">
+      <iframe src="{{ video_src }}" allow="autoplay" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
   </div>
 {% endunless %}
+
