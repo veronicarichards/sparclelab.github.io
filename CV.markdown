@@ -9,8 +9,8 @@ title: "CV"
 ## Education
 
 - **Ph.D.** (in progress) - Penn State University, Molecular, Cellular, and Integrative Biosciences program.    
-Committee members: Christina Grozinger, Michael Axtell, Shaun Mahony, Heather Hines, Amro Zayed (YorkU)
-- **B.Sc.** (2019) - University of Nebraska at Omaha, Neuroscience Program, Dept of Biology
+Committee members: Christina Grozinger, Michael Axtell, Shaun Mahony, Heather Hines, Amro Zayed (YorkU).
+- **B.Sc.** (2019) - University of Nebraska at Omaha, Neuroscience program, Department of Biology.
 
 ## Technical
 
@@ -31,7 +31,6 @@ Committee members: Christina Grozinger, Michael Axtell, Shaun Mahony, Heather Hi
 - NGS platforms: Illumina NextSeq 2000
 - Molecular cloning & subcloning
 - RNAi & CRISPR
-- Microinjection
 
 ### Animal husbandry
 
@@ -79,8 +78,8 @@ See my publications on [Google Scholar](https://scholar.google.com/citations?hl=
 
 ## Collaborations
 
-- Ongoing collaboration with labs at Central State University and Texas A&M University.
-- International collaboration with lab at the Hebrew University of Jerusalem
+- Ongoing research collaboration with labs at Central State University and Texas A&M University.
+- Ongoing international research collaboration with lab at the Hebrew University of Jerusalem
 
 ## Manuscript reviews
 
