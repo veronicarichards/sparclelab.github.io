@@ -612,7 +612,7 @@ a.reversefootnote {
     }
   }
 
-@media (pointer: coarse){
+@media (any-pointer: coarse), (hover: none){
   .header-video-container {
     display: none;
   }
