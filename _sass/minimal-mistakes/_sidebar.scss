@@ -172,6 +172,13 @@
     margin-bottom: 10px;
   }
 }
+
+@media (any-pointer: coarse), (hover: none){
+  .author__name {
+    display: none;
+  }
+}
+
 .sidebar .author__name {
   font-family: $serif;
   font-size: $type-size-5;
