@@ -12,8 +12,8 @@ gallery:
     image_path: /assets/images/image-gallery-thumbs/img30.png
   - url: /assets/images/image-gallery/img27.png
     image_path: /assets/images/image-gallery-thumbs/img27.png
-  - url: /assets/images/image-gallery/img5.png
-    image_path: /assets/images/image-gallery-thumbs/img5.png
+  - url: /assets/images/image-gallery/img17.png
+    image_path: /assets/images/image-gallery-thumbs/img17.png
   - url: /assets/images/image-gallery/img6.png
     image_path: /assets/images/image-gallery-thumbs/img6.png
   - url: /assets/images/image-gallery/img7.png
@@ -34,8 +34,8 @@ gallery:
     image_path: /assets/images/image-gallery-thumbs/img14.png
   - url: /assets/images/image-gallery/img15.png
     image_path: /assets/images/image-gallery-thumbs/img15.png
-  - url: /assets/images/image-gallery/img17.png
-    image_path: /assets/images/image-gallery-thumbs/img17.png
+  - url: /assets/images/image-gallery/img5.png
+    image_path: /assets/images/image-gallery-thumbs/img5.png
   - url: /assets/images/image-gallery/img18.png
     image_path: /assets/images/image-gallery-thumbs/img18.png
   - url: /assets/images/image-gallery/img20.png
@@ -52,16 +52,16 @@ gallery:
     image_path: /assets/images/image-gallery-thumbs/img31.png
   - url: /assets/images/image-gallery/img32.png
     image_path: /assets/images/image-gallery-thumbs/img32.png
-  - url: /assets/images/image-gallery/img33.png
-    image_path: /assets/images/image-gallery-thumbs/img33.png
+  - url: /assets/images/image-gallery/img34.png
+    image_path: /assets/images/image-gallery-thumbs/img34.png
   - url: /assets/images/image-gallery/img1.png
     image_path: /assets/images/image-gallery-thumbs/img1.png
   - url: /assets/images/image-gallery/img24.png
     image_path: /assets/images/image-gallery-thumbs/img24.png
   - url: /assets/images/image-gallery/img25.png
     image_path: /assets/images/image-gallery-thumbs/img25.png
-  - url: /assets/images/image-gallery/img34.png
-    image_path: /assets/images/image-gallery-thumbs/img34.png
+  - url: /assets/images/image-gallery/img33.png
+    image_path: /assets/images/image-gallery-thumbs/img33.png
   - url: /assets/images/image-gallery/img35.png
     image_path: /assets/images/image-gallery-thumbs/img35.png
   - url: /assets/images/image-gallery/img28.png
