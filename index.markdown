@@ -6,8 +6,12 @@ header:
     provider: youtube
 author_profile: true
 gallery:
-  - url: /assets/images/image-gallery/img1.png
-    image_path: /assets/images/image-gallery-thumbs/img1.png
+  - url: /assets/images/image-gallery/img29.png
+    image_path: /assets/images/image-gallery-thumbs/img29.png
+  - url: /assets/images/image-gallery/img30.png
+    image_path: /assets/images/image-gallery-thumbs/img30.png
+  - url: /assets/images/image-gallery/img27.png
+    image_path: /assets/images/image-gallery-thumbs/img27.png
   - url: /assets/images/image-gallery/img5.png
     image_path: /assets/images/image-gallery-thumbs/img5.png
   - url: /assets/images/image-gallery/img6.png
@@ -42,30 +46,26 @@ gallery:
     image_path: /assets/images/image-gallery-thumbs/img22.png
   - url: /assets/images/image-gallery/img23.png
     image_path: /assets/images/image-gallery-thumbs/img23.png
-  - url: /assets/images/image-gallery/img24.png
-    image_path: /assets/images/image-gallery-thumbs/img24.png
-  - url: /assets/images/image-gallery/img25.png
-    image_path: /assets/images/image-gallery-thumbs/img25.png
   - url: /assets/images/image-gallery/img26.png
     image_path: /assets/images/image-gallery-thumbs/img26.png
-  - url: /assets/images/image-gallery/img27.png
-    image_path: /assets/images/image-gallery-thumbs/img27.png
-  - url: /assets/images/image-gallery/img28.png
-    image_path: /assets/images/image-gallery-thumbs/img28.png
-  - url: /assets/images/image-gallery/img29.png
-    image_path: /assets/images/image-gallery-thumbs/img29.png
-  - url: /assets/images/image-gallery/img30.png
-    image_path: /assets/images/image-gallery-thumbs/img30.png
   - url: /assets/images/image-gallery/img31.png
     image_path: /assets/images/image-gallery-thumbs/img31.png
   - url: /assets/images/image-gallery/img32.png
     image_path: /assets/images/image-gallery-thumbs/img32.png
   - url: /assets/images/image-gallery/img33.png
     image_path: /assets/images/image-gallery-thumbs/img33.png
+  - url: /assets/images/image-gallery/img1.png
+    image_path: /assets/images/image-gallery-thumbs/img1.png
+  - url: /assets/images/image-gallery/img24.png
+    image_path: /assets/images/image-gallery-thumbs/img24.png
+  - url: /assets/images/image-gallery/img25.png
+    image_path: /assets/images/image-gallery-thumbs/img25.png
   - url: /assets/images/image-gallery/img34.png
     image_path: /assets/images/image-gallery-thumbs/img34.png
   - url: /assets/images/image-gallery/img35.png
     image_path: /assets/images/image-gallery-thumbs/img35.png
+  - url: /assets/images/image-gallery/img28.png
+    image_path: /assets/images/image-gallery-thumbs/img28.png
 ---
 
 I am a scientist studying animal behavior and development. I use molecular biology and bioinformatics tools, and work with genomic, transcriptomic, and epigenomic data generated with various next-generation sequencing methods. My current projects seek to 1) test predictions of the [kinship theory of intragenomic conflict](https://doi.org/10.1186/1471-2148-3-15) using the honey bee (*Apis mellifera*), and 2) identify and interogate the gene regulatory mechanisms driving parent-of-origin allele-specific transcription (genomic imprinting) in social insects. I am currently working on my dissertation research at the Pennsylvania State University with [Christina Grozinger](https://www.grozingerlab.com/), [Michael Axtell](https://sites.psu.edu/axtell/), [Shaun Mahony](https://mahonylab.org/), [Heather Hines](https://hineslab.org/), and [Amro Zayed](http://zayedlab.apps01.yorku.ca/wordpress/) (York University - Toronto, Canada). I also write bioinformatics software and mentor undergraduate students in data analysis, molecular biology, and honey bee husbandry. [See my CV](/CV) for more details.
