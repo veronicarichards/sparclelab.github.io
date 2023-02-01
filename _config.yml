@@ -20,7 +20,7 @@ title                    : "Sean T. Bresnahan"
 title_separator          : "-"
 subtitle                 : "Bioinformatics, gene regulation, social insect behavior & development"
 name                     : "Sean T. Bresnahan"
-description              : "Research portfolio of Sean T. Bresnahan."
+description              : "Bioinformatics, gene regulation, social insect behavior & development"
 url                      : "https://seantbresnahan.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sbresnahan/sbresnahan.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -88,7 +88,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "og.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
