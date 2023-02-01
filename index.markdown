@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  og_image: og.png
+  og_image: og.jpg
   video:
     id: p8Vq1kxdoGs?autoplay=1&loop=1&mute=1&modestbranding=1&controls=0&playlist=p8Vq1kxdoGs
     provider: youtube
