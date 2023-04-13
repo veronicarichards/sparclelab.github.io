@@ -7,22 +7,22 @@ header:
     provider: youtube
 author_profile: true
 gallery:
-  - url: /assets/images/image-gallery/img11.png
-    image_path: /assets/images/image-gallery-thumbs/img11.png
+  - url: /assets/images/image-gallery/img36.png
+    image_path: /assets/images/image-gallery-thumbs/img36.png
   - url: /assets/images/image-gallery/img12.png
     image_path: /assets/images/image-gallery-thumbs/img12.png
-  - url: /assets/images/image-gallery/img32.png
-    image_path: /assets/images/image-gallery-thumbs/img32.png
+  - url: /assets/images/image-gallery/img37.png
+    image_path: /assets/images/image-gallery-thumbs/img37.png
   - url: /assets/images/image-gallery/img29.png
     image_path: /assets/images/image-gallery-thumbs/img29.png
   - url: /assets/images/image-gallery/img30.png
     image_path: /assets/images/image-gallery-thumbs/img30.png
   - url: /assets/images/image-gallery/img27.png
     image_path: /assets/images/image-gallery-thumbs/img27.png
-  - url: /assets/images/image-gallery/img36.png
-    image_path: /assets/images/image-gallery-thumbs/img36.png
-  - url: /assets/images/image-gallery/img37.png
-    image_path: /assets/images/image-gallery-thumbs/img37.png
+  - url: /assets/images/image-gallery/img11.png
+    image_path: /assets/images/image-gallery-thumbs/img11.png
+  - url: /assets/images/image-gallery/img32.png
+    image_path: /assets/images/image-gallery-thumbs/img32.png
   - url: /assets/images/image-gallery/img17.png
     image_path: /assets/images/image-gallery-thumbs/img17.png
   - url: /assets/images/image-gallery/img6.png
@@ -41,8 +41,6 @@ gallery:
     image_path: /assets/images/image-gallery-thumbs/img14.png
   - url: /assets/images/image-gallery/img15.png
     image_path: /assets/images/image-gallery-thumbs/img15.png
-  - url: /assets/images/image-gallery/img5.png
-    image_path: /assets/images/image-gallery-thumbs/img5.png
   - url: /assets/images/image-gallery/img18.png
     image_path: /assets/images/image-gallery-thumbs/img18.png
   - url: /assets/images/image-gallery/img20.png
