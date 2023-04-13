@@ -7,6 +7,10 @@ header:
     provider: youtube
 author_profile: true
 gallery:
+  - url: /assets/images/image-gallery/img36.png
+    image_path: /assets/images/image-gallery-thumbs/img36.png
+  - url: /assets/images/image-gallery/img37.png
+    image_path: /assets/images/image-gallery-thumbs/img37.png
   - url: /assets/images/image-gallery/img11.png
     image_path: /assets/images/image-gallery-thumbs/img11.png
   - url: /assets/images/image-gallery/img12.png
@@ -43,8 +47,6 @@ gallery:
     image_path: /assets/images/image-gallery-thumbs/img18.png
   - url: /assets/images/image-gallery/img20.png
     image_path: /assets/images/image-gallery-thumbs/img20.png
-  - url: /assets/images/image-gallery/img21.png
-    image_path: /assets/images/image-gallery-thumbs/img21.png
   - url: /assets/images/image-gallery/img22.png
     image_path: /assets/images/image-gallery-thumbs/img22.png
   - url: /assets/images/image-gallery/img23.png
@@ -69,6 +71,6 @@ gallery:
     image_path: /assets/images/image-gallery-thumbs/img28.png
 ---
 
-I study social insect behavior, developmental plasticity, and gene regulation. I utilize molecular biology and bioinformatics tools, and work with genomic, transcriptomic, and epigenomic data. My current projects aim to 1) test predictions of the [kinship theory of intragenomic conflict](https://doi.org/10.1186/1471-2148-3-15) in the honey bee (*Apis mellifera*), and 2) identify and interogate the gene regulatory mechanisms driving parent-of-origin allele-specific transcription (genomic imprinting) in social insects. I am currently working on my dissertation research at the Pennsylvania State University with [Christina Grozinger](https://www.grozingerlab.com/), [Michael Axtell](https://sites.psu.edu/axtell/), [Shaun Mahony](https://mahonylab.org/), [Heather Hines](https://hineslab.org/), and [Amro Zayed](http://zayedlab.apps01.yorku.ca/wordpress/) (York University - Toronto, Canada). I also write bioinformatics software and mentor undergraduate students in data analysis, molecular biology, and honey bee husbandry. [See my CV](/CV) for more details.
+I study social insect behavior, developmental plasticity, and gene regulation. I utilize molecular biology and bioinformatics tools, and work with genomic, transcriptomic, and epigenomic data. My research projects aim to aid in our understanding of 1) the influence of [intragenomic conflicts](https://doi.org/10.1038/s41559-017-0354-9) in honey bee (*Apis mellifera*) behavior and development, and 2) the gene regulatory mechanisms driving parent-of-origin allele-specific transcription (genomic imprinting) in social insects. I am currently working on my dissertation research at the Pennsylvania State University with [Christina Grozinger](https://www.grozingerlab.com/), [Michael Axtell](https://sites.psu.edu/axtell/), [Shaun Mahony](https://mahonylab.org/), [Heather Hines](https://hineslab.org/), and [Amro Zayed](http://zayedlab.apps01.yorku.ca/wordpress/) (York University - Toronto, Canada). I also write bioinformatics software and mentor undergraduate students in data analysis, molecular biology, and honey bee husbandry. [See my CV](/CV) for more details.
 
 {% include gallery %}
