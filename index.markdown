@@ -7,10 +7,6 @@ header:
     provider: youtube
 author_profile: true
 gallery:
-  - url: /assets/images/image-gallery/img36.png
-    image_path: /assets/images/image-gallery-thumbs/img36.png
-  - url: /assets/images/image-gallery/img37.png
-    image_path: /assets/images/image-gallery-thumbs/img37.png
   - url: /assets/images/image-gallery/img11.png
     image_path: /assets/images/image-gallery-thumbs/img11.png
   - url: /assets/images/image-gallery/img12.png
@@ -23,6 +19,10 @@ gallery:
     image_path: /assets/images/image-gallery-thumbs/img30.png
   - url: /assets/images/image-gallery/img27.png
     image_path: /assets/images/image-gallery-thumbs/img27.png
+  - url: /assets/images/image-gallery/img36.png
+    image_path: /assets/images/image-gallery-thumbs/img36.png
+  - url: /assets/images/image-gallery/img37.png
+    image_path: /assets/images/image-gallery-thumbs/img37.png
   - url: /assets/images/image-gallery/img17.png
     image_path: /assets/images/image-gallery-thumbs/img17.png
   - url: /assets/images/image-gallery/img6.png
