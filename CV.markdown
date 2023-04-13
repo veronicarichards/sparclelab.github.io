@@ -41,9 +41,9 @@ Committee members: Christina Grozinger, Michael Axtell, Shaun Mahony, Heather Hi
 
 **Bresnahan, S. T.**, Döke, M., A., Giray, T., and Grozinger, C. M. (2021). “Tissue-specific transcriptional patterns underlie seasonal phenotypes in honey bees (*Apis mellifera*)”. Molecular Ecology, 31, 174-184. [https://doi.org/10.1111/mec.16220](https://doi.org/10.1111/mec.16220)
 
-**Bresnahan, S. T.**, Lee, E., Clark, L., Ma, R., Rangel, J., Grozinger, C. M., Li-Byarlay, H. (2023). “Allele-specific transcription and RNA m6A profiles of parent-of-origin effects on aggressive behavior in honey bees (*Apis mellifera*)”. in prep.
+**Bresnahan, S. T.**, Lee, E., Clark, L., Ma, R., Rangel, J., Grozinger, C. M., Li-Byarlay, H. (2023). “Examining parent-of-origin effects on transcription and RNA methylation in mediating aggressive behavior in honey bees (*Apis mellifera*)”. in review. [https://doi.org/10.21203/rs.3.rs-2621698/v1](https://doi.org/10.21203/rs.3.rs-2621698/v1)
 
-Crone, M., Boyle, N., **Bresnahan, S. T.**, Biddinger, D., Grozinger, C. M. (2023). “More than mesolectic: Are Osmia cornifrons nutritional generalists or specialists?” in prep. 
+Crone, M., Boyle, N., **Bresnahan, S. T.**, Biddinger, D., Grozinger, C. M. (2023). “More than mesolectic: Are Osmia cornifrons nutritional generalists or specialists?” in review. 
 
 See my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=yqoHycoAAAAJ).
 
