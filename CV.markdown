@@ -7,22 +7,22 @@ title: "CV"
 [View as PDF](/assets/docs/STB_CV_0923.pdf)
 
 PhD Candidate:   
-Molecular, Cellular, and Integrative Biosciences Graduate Program
-Huck Institutes of the Life Sciences
-Pennsylvania State University
-Millenium Science Complex W236
-University Park, PA, 16802
-Phone: 814-321-5947
-Email: [stb5321@psu.edu](stb5321@psu.edu)
+Molecular, Cellular, and Integrative Biosciences Graduate Program   
+Huck Institutes of the Life Sciences   
+Pennsylvania State University   
+Millenium Science Complex W236   
+University Park, PA, 16802   
+Phone: 814-321-5947   
+Email: [stb5321@psu.edu](stb5321@psu.edu)   
 
 ## EDUCATION
 
 ---
 
-**Penn State University**  
+**Penn State University**   
 Ph.D. - Molecular, Cellular, & Integrative Biosciences: Huck Institutes of the Life Sciences - 2024
 
-**University of Nebraska, Omaha**  
+**University of Nebraska, Omaha**   
 B.S. - Neuroscience: Department of Biology - 2019
 
 ## AWARDS
@@ -37,7 +37,7 @@ B.S. - Neuroscience: Department of Biology - 2019
 
 ---
 
-**Penn State University**, Doctoral Researcher - 2019-present
+**Penn State University**, Doctoral Researcher - 2019-present   
 Huck Institutes of the Life Sciences; Drs. Christina Grozinger and Michael Axtell  
 
 - Constructed and sequenced mRNA and small RNA sequencing libraries
@@ -46,7 +46,7 @@ Huck Institutes of the Life Sciences; Drs. Christina Grozinger and Michael Axtel
 - Utilized machine learning methods to infer gene regulatory networks associated with phenotypic variation
 - Designed, optimized, and implemented software for metagenomics sequence database curation to assess floral diversity in pollen samples
 
-**University of Nebraska, Omaha**, Undergraduate Researcher - 2017-2019
+**University of Nebraska, Omaha**, Undergraduate Researcher - 2017-2019   
 Department of Biology; Dr. Ryan Wong  
 
 - Generated mutant zebrafish lines using CRISPR/Cas9 to study influence of candidate genes on stress-coping behavior, learning, and memory
