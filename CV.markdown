@@ -7,7 +7,7 @@ title: "CV"
 [View as PDF](/assets/docs/SeanBresnahan_CV_100423.pdf)
 
 PhD Candidate:   
-Molecular, Cellular, and Integrative Biosciences
+Molecular, Cellular, and Integrative Biosciences   
 Huck Institutes of the Life Sciences   
 Pennsylvania State University   
 Millenium Science Complex W236   
@@ -40,6 +40,7 @@ Huck Institutes of the Life Sciences; Drs. Christina Grozinger and Michael Axtel
 - Designed, optimized, and implemented software for metagenomics sequence database curation to assess species diversity in environmental samples
 
 **University of Nebraska, Omaha**, Undergraduate Researcher - 2017-2019   
+
 Department of Biology; Dr. Ryan Wong  
 
 - Generated mutant zebrafish lines using CRISPR/Cas9 to study influence of candidate genes on stress-coping behavior, learning, and memory
@@ -52,19 +53,19 @@ Department of Mathematics; Dr. Jim Rogers
 
 ---
 
-- *Languages*: R; python; bash
-- *Methods*: fixed, random, and mixed-effects models; general linear models; machine learning (support vector machines); dimensionality reduction (PCA, t-SNE); clustering (heirarchical, *k*-means); differential expression analysis (DESeq2, edgeR); gene network inference (WGCNA, LARS, ARCANE)
-- *Tools*: read processing (fastQC, fastp, seqtk); alignment (BWA, STAR, bowtie); analysis (samtools, bedtools, freebayes, bcftools, GATK, ShortStack)
-- *Reproducibility*: RMarkdown, Github
+- *Languages:* R; python; bash
+- *Methods:* fixed, random, and mixed-effects models; general linear models; machine learning (support vector machines); dimensionality reduction (PCA, t-SNE); clustering (heirarchical, *k*-means); differential expression analysis (DESeq2, edgeR); gene network inference (WGCNA, LARS, ARCANE)
+- *Tools:* read processing (fastQC, fastp, seqtk); alignment (BWA, STAR, bowtie); analysis (samtools, bedtools, freebayes, bcftools, GATK, ShortStack)
+- *Reproducibility:* RMarkdown, Github
 
 ## EMPIRICAL SKILLS
 
 ---
 
-- *Library construction*: sRNA (in-house), mRNA (Illumina), ChIP (NEB)
-- *Instrumentation*: nanodrop, qubit, bioanalyzer, tapestation, Illumina NextSeq 2000
-- *Tools*: RNAi, CRISPR, molecular cloning
-- *Assays*: ChIP, PCR, qPCR, AS-qPCR
+- *Library construction:* sRNA (in-house), mRNA (Illumina), ChIP (NEB)
+- *Instrumentation:* nanodrop, qubit, bioanalyzer, tapestation, Illumina NextSeq 2000
+- *Tools:* RNAi, CRISPR, molecular cloning
+- *Assays:* ChIP, PCR, qPCR, AS-qPCR
 
 ## AWARDS
 
@@ -78,15 +79,13 @@ Department of Mathematics; Dr. Jim Rogers
 
 ---
 
-**Bresnahan ST**, Ma R, Galbraith D, Rangel J, Grozinger CM. (2023). Beyond conflict: kinship theory of intragenomic conflict predicts individual variation in altruistic behavior. *Molecular Ecology*.   
-[https://doi.org/10.1111/mec.17145](https://doi.org/10.1111/mec.17145)
+**Bresnahan ST**, Ma R, Galbraith D, Rangel J, Grozinger CM. (2023). Beyond conflict: kinship theory of intragenomic conflict predicts individual variation in altruistic behavior. *Molecular Ecology*. [https://doi.org/10.1111/mec.17145](https://doi.org/10.1111/mec.17145)
 
 **Bresnahan ST**, Lee E, Clark L, Ma R, Rangel J, Grozinger CM, Li-Byarlay H. (2023). Examining parent-of-origin effects on transcription and RNA methylation in mediating aggressive behavior in honey bees (*Apis mellifera*). *BMC Genomics* 24:315. [https://doi.org/10.1186/s12864-023-09411-4](https://doi.org/10.1186/s12864-023-09411-4)
 
 Crone M, Boyle N, **Bresnahan ST**, Biddinger D, Grozinger CM. (2023, *in press*) “More than mesolectic: Are Osmia cornifrons nutritional generalists or specialists?” *Ecology and Evolution*.
 
-**Bresnahan ST**, Döke MA, Giray T, Grozinger CM. (2021). Tissue-specific transcriptional patterns underlie seasonal phenotypes in honey bees (*Apis mellifera*). *Molecular Ecology* 31, 174-184.   
-[https://doi.org/10.1111/mec.16220](https://doi.org/10.1111/mec.16220)
+**Bresnahan ST**, Döke MA, Giray T, Grozinger CM. (2021). Tissue-specific transcriptional patterns underlie seasonal phenotypes in honey bees (*Apis mellifera*). *Molecular Ecology* 31, 174-184. [https://doi.org/10.1111/mec.16220](https://doi.org/10.1111/mec.16220)
 
 ## CONFERENCE PRESENTATIONS
 
