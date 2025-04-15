@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Sean T. Bresnahan"
 title_separator          : "-"
-subtitle                 : "Transcriptomics, Functional Genomics, Intragenomic Conflicts"
+subtitle                 : "Functional Genomics, Epidemiology, Intragenomic Conflicts"
 name                     : "Sean T. Bresnahan"
-description              : "Transcriptomics, Functional Genomics, Intragenomic Conflicts"
+description              : "Functional Genomics, Epidemiology, Intragenomic Conflicts"
 url                      : "https://seantbresnahan.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sbresnahan/sbresnahan.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ author:
   name             : "Sean T. Bresnahan"
   avatar           : "assets/images/profile_small.jpg"
   bio              : "Postdoctoral Data Scientist"
-  location         : "The University of Texas MD Anderson Cancer Center"
+  location         : "MD Anderson Cancer Center"
   email            :
   links:
     - label: "GitHub"
