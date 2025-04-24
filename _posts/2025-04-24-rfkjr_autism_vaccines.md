@@ -37,7 +37,7 @@ AFAIK, enrollment in this database is involuntary.
 
 Centralized databases of health information from willing participants can be invaluable for honest research. 
 This is undeniably not that. We don’t even need to go into the life history of RFK Jr here ([but you should](https://www.youtube.com/watch?v=CWX7v1I9020)), he’s been extremely consistent in his beliefs. 
-RFK Jr wants complete centralized knowledge of every American’s health in order to exact control on what medications are allowed an in order to fabricate “evidence” for his nonsense “theories”. 
+RFK Jr wants complete centralized knowledge of every American’s health in order to exact control on what medications are allowed and in order to fabricate “evidence” for his nonsense “theories”. 
 His plan isn’t the T4 (Nazi eugenics) program, but it is sick and dangerous and deadly. 
 He wants to end autism, which he sees as a disease and that is absolutely genocidal.
 
