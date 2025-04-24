@@ -7,7 +7,7 @@ header:
     image: /assets/images/rfkjr_getty.jpg
     teaser: /assets/images/rfkjr_getty.jpg
 excerpt: "RFK Jr wants complete centralized knowledge of every American's health to experiment on children he sees as being diseased"
-description: "About RFK Jr's autism \"study\": where \"Parental Rights\" and \"alternative facts\" meet"
+description: "Where \"Parental Rights\" and \"alternative facts\" meet"
 layout: single
 ---
 
