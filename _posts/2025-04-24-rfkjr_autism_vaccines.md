@@ -47,11 +47,11 @@ You have to see the danger RFK Jr represents and the harm he wants to cause in t
 
 This is a key arm of the project: in the last week, the [DOJ has sent threatening letters to several medical journals](https://www.nytimes.com/2025/04/18/health/trump-martin-us-attorney-medical-journals.html?unlocked_article_code=1.Ak8.EMaq.FgyJDGc6D7I_&smid=url-share&fbclid=PAZXh0bgNhZW0CMTEAAaeYkeoBlS1BU2wCDMVA3etHkQj74vJcg891Jt3yKmc42GHvIhnreNDs87dFwg_aem_3yLlcUXET94Gz6fkRsXpNw), focused around whether these journals are spreading misinformation that harms the American people and suppressing alternative viewpoints.
 
-A scientific journal is a collection of articles deemed worthy of publication by the peers in a community of scientists. 
+Paraphrasing [Carl Bergstrom](https://ctbergstrom.com) (Professor of Biology at UW) as he put it on Bluesky: A scientific journal is a collection of articles judged to be worthy of publication by peers, trained professionals in a community of scientists. 
 These articles are OFTEN mutually contradictory. 
-Scientific debates in medicine and elsewhere can rage on for decades until adequate evidence is amassed, can be extremely contentious, and often both sides are published predominantly in a single journal. 
-The subtext in the DOJ’s letters is an inability to understand that the scientific literature is NOT a collection of certified, unquestionable facts, but rather a running record of a massively parallel, collective investigation into the nature of reality. 
-It’s a failure to grasp that science is a highly decentralized form of knowledge production, with strong incentives for individuals to refute common understanding and disprove dominant theories or explanations.
+"Scientific debates in medicine and elsewhere can rage on for decades until adequate evidence is amassed, can be extremely contentious, and often both sides are published predominantly in a single journal." 
+The subtext in the DOJ’s letters is "an inability to understand that the scientific literature is NOT a collection of certified, unquestionable facts, but rather a running record of a massively parallel, collective investigation into the nature of reality." 
+It's a failure to grasp that "science is a highly decentralized form of knowledge production, with strong incentives for individuals to refute common understanding and disprove dominant theories or explanations."
 
 This is why you should NOT take ANY stock in ANYTHING someone like RFK Jr, or Joe Rogan, or other “anti-establishment” health influencers have to say about science. 
 Because it wasn’t until the regime took control over federal health agencies and science funding that they’re doing “studies” to support their “alternative viewpoints”. 
