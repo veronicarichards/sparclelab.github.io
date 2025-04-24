@@ -15,9 +15,11 @@ RFK Jr, secretary of the HHS, is planning a federal “study” on whether or no
 [He claims](https://www.medpagetoday.com/pediatrics/autism/115223) that autism is an “epidemic” that has “reached a scale unprecedented in human history because it affects the young” and that “autism is a preventable disease… genes don’t cause epidemics, you need an environmental toxin.”
 
 Autism is not a disease, it’s a distinct neurotype, and we have strong genomic evidence for a genetic basis of autism. 
-I’ll do a whole post on this in the near future, but here’s a recent study with exceptionally robust methods: 
+I’ll do a whole post on this in the near future, but here are two recent studies with great discussion and robust methods: 
 
-[Genome-wide prediction and fucntional characterizaiton of the genetic basis of autism spectrum disorder, Krishnan et al., 2016, *Nature Neuroscience*](https://pmc.ncbi.nlm.nih.gov/articles/PMC5803797/pdf/nihms909175.pdf). 
+[Genome-wide prediction and functional characterization of the genetic basis of autism spectrum disorder, Krishnan *et al*., 2016, *Nature Neuroscience*](https://pmc.ncbi.nlm.nih.gov/articles/PMC5803797/pdf/nihms909175.pdf)
+
+[Inherited and *de novo* genetic risk for autism impacts shared networks, Ruzzo *et al*., 2020, *Cell*](https://pmc.ncbi.nlm.nih.gov/articles/PMC7102900/)
 
 Referring to autism as an epidemic is profoundly dehumanizing and is factually incorrect. 
 There isn’t strong evidence that the actual rate of autism has increased over time, and we have data across generations showing there isn’t a difference in the rate of autism between older and younger generations. 
