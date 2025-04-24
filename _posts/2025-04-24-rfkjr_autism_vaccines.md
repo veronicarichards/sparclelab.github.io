@@ -1,13 +1,13 @@
 ---
 tag: markup
 author_profile: false
-title: About RFK Jr's autism "study"
-subtitle: Where "Parental Rights" and "alternative facts" meet
+title: "About RFK Jr's autism \"study\""
+subtitle: "Where \"Parental Rights\" and \"alternative facts\" meet"
 header:
     image: /assets/images/rfkjr_getty.jpg
     teaser: /assets/images/rfkjr_getty.jpg
-excerpt: RFK Jr wants complete centralized knowledge of every American's health to experiment on children he sees as being diseased
-description: About RFK Jr's autism "study": where "Parental Rights" and "alternative facts" meet
+excerpt: "RFK Jr wants complete centralized knowledge of every American's health to experiment on children he sees as being diseased"
+description: "About RFK Jr's autism \"study\": where \"Parental Rights\" and \"alternative facts\" meet"
 layout: single
 ---
 
@@ -17,14 +17,14 @@ RFK Jr, secretary of the HHS, is planning a federal “study” on whether or no
 Autism is not a disease, it’s a distinct neurotype, and we have strong genomic evidence for a genetic basis of autism. 
 I’ll do a whole post on this in the near future, but here’s a recent study with exceptionally robust methods: 
 
-[Genome-wide prediction and fucntional characterizaiton of the genetic basis of autism spectrum disorder, Krishnan et al., 2016, **Nature Neuroscience**](https://pmc.ncbi.nlm.nih.gov/articles/PMC5803797/pdf/nihms909175.pdf). 
+[Genome-wide prediction and fucntional characterizaiton of the genetic basis of autism spectrum disorder, Krishnan et al., 2016, *Nature Neuroscience*](https://pmc.ncbi.nlm.nih.gov/articles/PMC5803797/pdf/nihms909175.pdf). 
 
 Referring to autism as an epidemic is profoundly dehumanizing and is factually incorrect. 
 There isn’t strong evidence that the actual rate of autism has increased over time, and we have data across generations showing there isn’t a difference in the rate of autism between older and younger generations. 
 There is however a large body of evidence demonstrating that rates of autism diagnoses track extremely closely with changes to diagnostic criteria, changes in screening practices, and changes in social acceptance of autism. 
 Collectively, the data shows that autism has distinct developmental features that pre-date receipt of any vaccine. We are literally getting to a point that we could be able to identify autism in utero. 
 
-So this “study” that the federal government is planning, using your tax dollars, is something researchers across the globe from a multitude of fields have done tens of thousands of times over many decades and generally arrived at the same conclusion: that [*vaccines do not cause autism*](https://www.statnews.com/2025/02/03/vaccine-autism-rfk-jr-how-science-proves-vaccines-do-not-cause-autism/). 
+So this “study” that the federal government is planning, using your tax dollars, is something researchers across the globe from a multitude of fields have done tens of thousands of times over many decades and generally arrived at the same conclusion: that [**vaccines do not cause autism**](https://www.statnews.com/2025/02/03/vaccine-autism-rfk-jr-how-science-proves-vaccines-do-not-cause-autism/). 
 Meanwhile, DOGE is claiming to reduce the federal deficit by [cutting funding for cancer & HIV research](https://thehill.com/policy/healthcare/5263506-former-trump-official-doge-cuts-hiv-aids-epidemic/), just to name a few things lost to this regime. 
 The study will be directed by David Geier, who has repeatedly claimed a link between vaccines and autism, who [the state of Maryland found guilty of practicing medicine without a license](https://www.mbp.state.md.us/BPQAPP/orders/GeierOrder07.302.pdf) (including injecting autistic children with experimental hormones), and who with his father Mark Geier [published a now-retracted study including fabricated data](https://pmc.ncbi.nlm.nih.gov/articles/PMC1839225/) to support their claim.
 
@@ -58,4 +58,4 @@ Because it wasn’t until the regime took control over federal health agencies a
 At any point in time they could have written grants to compete for funding from federal or private institutions, conducted controlled experiments to test hypotheses with appropriate methods, subjected their findings to review by scientific peers, and shared those findings with the broader scientific community and the public at large for further scrutiny. 
 But the point for these ghouls is NOT to do science: it’s to leverage the resources of institutions for financial gain, [censoring scientists from using words or studying topics the regime disproves of](https://www.pbs.org/newshour/health/what-happens-to-health-research-when-women-and-diversity-are-banned-words), all while enacting control over infrastructure to enforce a very specific, utterly batshit worldview.
 
-We have to stop the regime. [*People are dying*](https://www.nature.com/articles/d41586-025-01191-z). And many more will.
+We have to stop the regime. [**People are dying**](https://www.nature.com/articles/d41586-025-01191-z). And many more will.
