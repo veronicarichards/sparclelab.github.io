@@ -13,6 +13,8 @@ layout: single
 
 ## DNA metabarcoding
 
+[Update 05/06/25 - Read this article on Substack](https://seantbresnahan.substack.com/p/metacleaner)
+
 Say you're managing honey bee colonies for the purpose of honey production, and you want to know what their product is made of. What sources of nectar are your bees foraging on? You could spend weeks following your bees around, taking note of which flowers they frequent. You might notice some common genera represented - like clover (*Trifolium*) or locust (*Robinia*). But, knowing that *Apis mellifera* is a generalist forager and you've got tens of thousands of bees per colony, you could never possibly collect as much data as they already are. So, how can you leverage that data? (Or, if you're totally uninterested in the composition of honey, say you're interested in what species of bacteria are colonizing your GI tract. Insert your own "I have an environmental sample and I want to know what's in it" problem here.)
 
 [DNA metabarcoding](https://en.wikipedia.org/wiki/Metabarcoding) is a method for assessing taxonomic composition within a sample by "barcoding" of DNA: matching up the sequences of DNA molecules in a sample with a reference sequence database. The process is straightforward: sample homogenization, DNA extraction, PCR amplification, sequencing, and data analysis.
