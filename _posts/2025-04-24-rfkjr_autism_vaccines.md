@@ -11,6 +11,8 @@ description: "Where \"Parental Rights\" and \"alternative facts\" meet"
 layout: single
 ---
 
+[Update 05/06/24 - read this post on my Substack](https://seantbresnahan.substack.com/p/about-rfk-jrs-autism-study)
+
 RFK Jr, secretary of the HHS, is planning a federal “study” on whether or not vaccines cause autism. 
 [He claims](https://www.medpagetoday.com/pediatrics/autism/115223) that autism is an “epidemic” that has “reached a scale unprecedented in human history because it affects the young” and that “autism is a preventable disease… genes don’t cause epidemics, you need an environmental toxin.”
 
