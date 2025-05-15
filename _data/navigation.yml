@@ -3,7 +3,7 @@ main:
   - title: "Profile"
     url: /
   - title: "Blog"
-    url: /blog
+    url: https://seantbresnahan.substack.com
   - title: "Publications"
     url: https://scholar.google.com/citations?hl=en&user=yqoHycoAAAAJ
   - title: "GitHub"
