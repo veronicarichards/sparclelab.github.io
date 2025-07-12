@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Profile"
+  - title: "SPARCLE Lab"
     url: /
-  - title: "Blog"
-    url: https://seantbresnahan.substack.com
-  - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=yqoHycoAAAAJ
-  - title: "GitHub"
-    url: https://github.com/sbresnahan
-  - title: "CV"
-    url: /assets/docs/Bresnahan_CV_0425.pdf
+  - title: "Projects"
+    url: /projects
+  - title: "Research"
+    url: /research
+  - title: "Team"
+    url: /team
+  - title: "Lab Pets"
+    url: /labpets
+  - title: "Contact"
+    url: /contact
