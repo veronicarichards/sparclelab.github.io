@@ -5,6 +5,7 @@
 .archive {
   margin-top: 1em;
   margin-bottom: 2em;
+  font-family: "Open Sans", sans-serif; /* add here for general archive text */
 
   @include breakpoint($large) {
     float: right;
@@ -24,6 +25,7 @@
   a {
     position: relative;
     z-index: 10;
+    font-family: "Open Sans", sans-serif; /* links */
   }
 
   a[rel="permalink"] {
@@ -37,7 +39,8 @@
   font-size: $type-size-5;
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
-
+  font-family: "Open Sans", sans-serif;
+  
   + .list__item .archive__item-title {
     margin-top: 0.5em;
   }
@@ -45,7 +48,7 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: "Open Sans", sans-serif; /* replaced $sans-serif-narrow */
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -69,12 +72,14 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+    font-family: "Open Sans", sans-serif;
   }
 }
 
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
+  font-family: "Open Sans", sans-serif;
 
   & + p {
     text-indent: 0;
@@ -82,6 +87,7 @@
 
   a {
     position: relative;
+    font-family: "Open Sans", sans-serif;
   }
 }
 
@@ -102,7 +108,7 @@
   margin: 0 auto;
   padding: 2px 5px;
   color: #fff;
-  font-family: $caption-font-family;
+  font-family: "Open Sans", sans-serif; /* replaced $caption-font-family */
   font-size: $type-size-8;
   background: #000;
   text-align: right;
@@ -117,6 +123,7 @@
   a {
     color: #fff;
     text-decoration: none;
+    font-family: "Open Sans", sans-serif;
   }
 }
 
@@ -128,6 +135,7 @@
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
+    font-family: "Open Sans", sans-serif;
   }
 }
 
@@ -137,8 +145,6 @@
 
 .archive {
   .grid__wrapper {
-    /* extend grid elements to the right */
-
     @include breakpoint($large) {
       margin-right: -1 * $right-sidebar-width-narrow;
     }
@@ -151,6 +157,7 @@
 
 .grid__item {
   margin-bottom: 2em;
+  font-family: "Open Sans", sans-serif;
 
   @include breakpoint($small) {
     float: left;
@@ -199,6 +206,7 @@
   .page__meta {
     margin: 0 0 4px;
     font-size: 0.6em;
+    font-family: "Open Sans", sans-serif;
   }
 
   .page__meta-sep {
@@ -212,6 +220,7 @@
   .archive__item-title {
     margin-top: 0.5em;
     font-size: $type-size-5;
+    font-family: "Open Sans", sans-serif;
   }
 
   .archive__item-excerpt {
@@ -220,6 +229,7 @@
     @include breakpoint($medium) {
       display: block;
       font-size: $type-size-6;
+      font-family: "Open Sans", sans-serif;
     }
   }
 
@@ -242,9 +252,11 @@
   @include clearfix();
   margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
-
+  font-family: "Open Sans", sans-serif;
+  
   .archive__item-title {
     margin-bottom: 0;
+    font-family: "Open Sans", sans-serif;
   }
 }
 
@@ -252,6 +264,7 @@
   position: relative;
   margin-bottom: 2em;
   font-size: 1.125em;
+  font-family: "Open Sans", sans-serif;
 
   @include breakpoint($small) {
     float: left;
@@ -282,6 +295,7 @@
   .archive__item-body {
     padding-left: gutter(1 of 12);
     padding-right: gutter(1 of 12);
+    font-family: "Open Sans", sans-serif;
   }
 
   a.btn::before {
@@ -301,6 +315,7 @@
     width: 100%;
     clear: both;
     font-size: 1.125em;
+    font-family: "Open Sans", sans-serif;
 
     .archive__item {
       float: left;
@@ -330,6 +345,7 @@
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
         width: span(7 of 12);
+        font-family: "Open Sans", sans-serif;
       }
     }
   }
@@ -342,6 +358,7 @@
     width: 100%;
     clear: both;
     font-size: 1.125em;
+    font-family: "Open Sans", sans-serif;
 
     .archive__item {
       float: left;
@@ -373,6 +390,7 @@
         width: span(7 of 12);
         padding-left: gutter(0.5 of 12);
         padding-right: gutter(1 of 12);
+        font-family: "Open Sans", sans-serif;
       }
     }
   }
@@ -385,6 +403,7 @@
     width: 100%;
     clear: both;
     font-size: 1.125em;
+    font-family: "Open Sans", sans-serif;
 
     .archive__item {
       float: left;
@@ -415,6 +434,7 @@
       .archive__item-body {
         margin: 0 auto;
         width: span(7 of 12);
+        font-family: "Open Sans", sans-serif;
       }
     }
   }
@@ -427,6 +447,7 @@
     .archive__item-title {
       margin-top: 0.25em;
       font-size: 1em;
+      font-family: "Open Sans", sans-serif;
     }
   }
 
@@ -435,6 +456,7 @@
   .feature__item--center,
   .feature__item--right {
     font-size: 1em;
+    font-family: "Open Sans", sans-serif;
   }
 }
 
@@ -442,7 +464,7 @@
    Wide Pages
    ========================================================================== */
 
-  .wide {
+.wide {
   .archive {
     @include breakpoint($large) {
       padding-right: 0;
@@ -457,7 +479,8 @@
 /* Place inside a single layout */
 
 .layout--single {
-	.feature__wrapper {
-		display: inline-block;
-	}
+  .feature__wrapper {
+    display: inline-block;
+    font-family: "Open Sans", sans-serif;
+  }
 }

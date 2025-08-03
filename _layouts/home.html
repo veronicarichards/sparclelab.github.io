@@ -19,4 +19,6 @@ layout: archive
   {% endfor %}
 </div> -->
 
+<body class="{% if page.url == '/' %}home{% endif %}"></body>
+
 {% include paginator.html %}
