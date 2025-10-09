@@ -358,3 +358,18 @@
   }
 }
 
+
+/* Author profile link hover styles */
+.author__urls-wrapper .author__urls a {
+  text-decoration: none !important;
+  
+  &:hover {
+    color: #c8a2c8 !important;
+    text-decoration: none !important;
+    
+    i {
+      color: #c8a2c8 !important;
+    }
+  }
+}
+

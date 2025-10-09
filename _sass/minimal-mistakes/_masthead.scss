@@ -17,12 +17,9 @@
     margin-right: auto;
     padding: 1em;
     max-width: 100%;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
+    /* Use block layout instead of flex to ensure vertical stacking */
+    display: block;
+    text-align: center; /* Center everything */
     font-family: 'Open Sans', sans-serif;
 
     @include breakpoint($x-large) {
@@ -37,43 +34,106 @@
       text-decoration: none;
     }
   }
-
 }
 
-.site-logo img {
-  max-height: 2rem;
+.site-logo {
+  /* Center the logo and ensure it's on its own line */
+  display: block;
+  text-align: center;
+  margin: 0 auto 1.5em auto; /* Center horizontally and add bottom margin */
+  
+  img {
+    max-height: 8rem;  /* adjust size */
+    width: auto;
+  }
 }
 
 .site-title {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-item-align: center;
-  align-self: center;
-  font-weight: bold;
-  font-family: 'Open Sans', sans-serif;
+  display: none !important;
 }
 
 .site-subtitle {
   display: block;
   font-size: $type-size-8;
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+/* Force the navigation to appear below the logo */
+#site-nav, 
+.greedy-nav {
+  display: block !important;
+  width: 100% !important;
+  text-align: center !important;
+  clear: both !important;
+  margin-top: 1em !important;
+}
+
+/* Force all navigation links to be visible and disable greedy nav behavior */
+.visible-links {
+  display: inline-flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  gap: 2em !important; /* Space between menu items */
+  /* Override any width restrictions */
+  width: auto !important;
+  max-width: none !important;
+  overflow: visible !important;
+}
+
+/* Force all menu items to be visible */
+.visible-links li {
+  display: inline-block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Menu item hover effects */
+.visible-links a:hover,
+.masthead__menu-item a:hover {
+  color: #c8a2c8 !important; /* Lavender color similar to logo */
+  background: none !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+/* Hide the greedy nav toggle button since we don't need it */
+.greedy-nav__toggle {
+  display: none !important;
+}
+
+/* Force hidden links to be visible */
+.hidden-links {
+  display: inline-flex !important;
+  position: static !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Override any JavaScript-applied inline styles */
+.greedy-nav .visible-links li[style] {
+  display: inline-block !important;
 }
 
 .masthead__menu {
-  float: left;
+  /* Ensure menu container doesn't interfere */
+  float: none !important;
   margin-left: 0;
   margin-right: 0;
   width: 100%;
   clear: both;
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 
   .site-nav {
     margin-left: 0;
-
-    @include breakpoint($small) {
-      float: right;
-    }
+    float: none !important; /* Override any float */
   }
 
   ul {
@@ -81,14 +141,29 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    display: inline-flex !important;
+    justify-content: center !important;
+    gap: 2em !important;
   }
 }
 
 .masthead__menu-item {
-  display: block;
+  display: inline-block !important;
   list-style-type: none;
   white-space: nowrap;
   font-family: 'Open Sans', sans-serif;
+  border-bottom: none !important;
+  border-bottom-color: transparent !important;
+  border-bottom-style: none !important;
+  border-bottom-width: 0 !important;
+
+  a {
+    border-bottom: none !important;
+    border-bottom-color: transparent !important;
+    border-bottom-style: none !important;
+    border-bottom-width: 0 !important;
+    text-decoration: none !important;
+  }
 
   &--lg {
     padding-right: 2em;

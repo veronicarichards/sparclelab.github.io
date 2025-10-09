@@ -4,15 +4,33 @@
   {% assign feature_row = page.feature_row %}
 {% endif %}
 
+<style>
+@media (max-width: 768px) {
+  .archive__item-teaser {
+    transform: none !important;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .feature__item--left .archive__item-teaser {
+    transform: translateX(5em) !important;
+  }
+  .feature__item--right .archive__item-teaser {
+    transform: translateX(-5em) !important;
+  }
+}
+</style>
+
 <div class="feature__wrapper" style="font-family: 'Open Sans', sans-serif;">
 
   {% for f in feature_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}" style="font-family: 'Open Sans', sans-serif;">
       <div class="archive__item" style="font-family: 'Open Sans', sans-serif;">
         {% if f.image_path %}
-          <div class="archive__item-teaser">
+          <div class="archive__item-teaser" style="{% if include.type == 'left' %}transform: translateX(10em);{% elsif include.type == 'right' %}transform: translateX(-10em);{% endif %}">
             <img src="{{ f.image_path | relative_url }}"
-                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+                 alt="{% if f.alt %}{{ f.alt }}{% endif %}"
+                 style="width: {% if f.image_width %}{{ f.image_width }}{% else %}100%{% endif %}; height: auto;">
             {% if f.image_caption %}
               <span class="archive__item-caption" style="font-family: 'Open Sans', sans-serif;">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}

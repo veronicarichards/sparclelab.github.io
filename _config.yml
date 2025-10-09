@@ -25,8 +25,8 @@ url                      : "https://sparclelab.com" # the base hostname & protoc
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "veronicarichards/sparclelab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "og-min.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/header.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -98,9 +98,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-Q3F3WR2V68"
+    tracking_id          : 
     anonymize_ip         : # true, false (default)
 
 
@@ -206,6 +206,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-archives
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:

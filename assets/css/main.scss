@@ -18,3 +18,17 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
 }
+
+/* Override feature row grid spacing */
+.feature__item--left .archive__item-teaser,
+.feature__item--right .archive__item-teaser {
+  margin-bottom: 1em;
+}
+
+.feature__item--left .archive__item-body {
+  padding-left: 1em;
+}
+
+.feature__item--right .archive__item-body {
+  padding-right: 1em;
+}

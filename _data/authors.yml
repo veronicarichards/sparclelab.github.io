@@ -1,0 +1,18 @@
+# /_data/authors.yml
+
+Veronica L. Richards:
+  name        : "Veronica L. Richards"
+  bio         : "PhD, MPH | Assistant Professor | Principal Investigator"
+  avatar      : "/assets/images/vlr_headshot.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "veronica-richards@ou.edu"
+    - label: "Faculty Profile"
+      icon: "fas fa-fw fa-link"
+      url: "https://healthpromotionresearch.org/Faculty/details/veronica-richards-phd-mph"
+
+Sydney N. Chesebro:
+  name        : "Sydney Newell Chesebro"
+  bio         : "BS | Study Coordinator"
+  avatar      : "/assets/images/snc_headshot.png"

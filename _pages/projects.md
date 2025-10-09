@@ -1,19 +1,22 @@
 ---
-title: "Splash Page"
+title: "Projects"
 layout: splash
 permalink: /projects/
-date: 2016-03-23T11:48:41-04:00
+date: 2025-09-25
+excerpt: "Our research projects generally focus on understanding risk factors for experiencing alcohol-induced blackouts and other alcohol-related consequences in young adults."
 feature_row1:
-  - image_path: /assets/images/IMG1.png
+  - image_path: /assets/images/logos/lightsout.png
     alt: "Lights Out project image"
+    image_width: "50%"
     title: "Lights Out"
     excerpt: 'Exploring how alcohol, cannabis, nicotine, and sleep interact to influence blackouts in young adults'
     url: "/projects/lightsout/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/IMG2.png
+  - image_path: /assets/images/logos/tab.png
     alt: "Project TAB project image"
+    image_width: "50%"
     title: "Project TAB"
     excerpt: 'Examining drinking patterns, blackouts, and consequences among college students using alcohol sensors'
     url: "/projects/tab"

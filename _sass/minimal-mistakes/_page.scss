@@ -2,20 +2,32 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+// #main {
+//  @include clearfix;
+//  margin-left: auto;
+//  margin-right: auto;
+//  padding-left: 1em;
+//  padding-right: 1em;
+//  -webkit-animation: $intro-transition;
+//  animation: $intro-transition;
+//  max-width: 100%;
+//  -webkit-animation-delay: 0.15s;
+//  animation-delay: 0.15s;
+//
+//  @include breakpoint($x-large) {
+//    max-width: $max-width;
+//  }
+// }
+
 #main {
-  @include clearfix;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1em;
-  padding-right: 1em;
-  -webkit-animation: $intro-transition;
-  animation: $intro-transition;
-  max-width: 100%;
-  -webkit-animation-delay: 0.15s;
-  animation-delay: 0.15s;
+  padding-left: 1rem;   /* narrower padding */
+  padding-right: 1rem;
+  max-width: 100%;      /* allow full width by default */
 
   @include breakpoint($x-large) {
-    max-width: $max-width;
+    max-width: 1400px;  /* increase from default (~1280px) */
   }
 }
 
@@ -129,15 +141,18 @@ body {
     }
   }
 
-  a:not(.btn) {
-    &:hover {
-      text-decoration: underline;
+a:not(.btn) {
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: none;
+    color: #c8a2c8;
 
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
+    img {
+      box-shadow: 0 0 10px rgba(#000, 0.25);
     }
   }
+}
 
   :not(pre) > code {
     padding-top: 0.1rem;

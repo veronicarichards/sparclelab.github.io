@@ -7,6 +7,6 @@ main:
   - title: "Team"
     url: /team
   - title: "Lab Pets"
-    url: /labpets
+    url: /pets
   - title: "Contact"
     url: /contact
