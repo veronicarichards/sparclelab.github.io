@@ -1,7 +1,7 @@
 ---
 title: "Sydney Newell Chesebro"
 layout: single
-permalink: /team/sydneynchesebro
+permalink: /team/sydneynewellchesebro
 date: 2025-09-19
 excerpt: "Sydney C"
 author_profile: true
