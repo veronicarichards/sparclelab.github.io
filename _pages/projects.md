@@ -10,7 +10,7 @@ feature_row1:
     image_width: "50%"
     title: "Lights Out"
     excerpt: 'Exploring how alcohol, cannabis, nicotine, and sleep interact to influence blackouts in young adults'
-    url: "/projects/lightsout/"
+    url: "/lightsout"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
