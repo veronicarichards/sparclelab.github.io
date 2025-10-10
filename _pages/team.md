@@ -97,7 +97,7 @@ excerpt: "The Southern Plains Alcohol Research on Consequences in Lived Environm
 
   <div class="portrait-wrapper">
     <a href="/team/sydneynchesebro" class="portrait" data-style="">
-      <img src="/assets/images/snc_headshot.png" class="portrait-image" alt="Headshot of Sydney N. Chesebro" loading="lazy">
+      <img src="/assets/images/snc_headshot.jpg" class="portrait-image" alt="Headshot of Sydney N. Chesebro" loading="lazy">
       
       <span class="portrait-text">
         <span class="portrait-name">
