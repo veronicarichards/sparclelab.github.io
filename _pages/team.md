@@ -96,16 +96,16 @@ excerpt: "The Southern Plains Alcohol Research on Consequences in Lived Environm
   </div>
 
   <div class="portrait-wrapper">
-    <a href="/team/sydneynchesebro" class="portrait" data-style="">
-      <img src="/assets/images/snc_headshot.jpg" class="portrait-image" alt="Headshot of Sydney N. Chesebro" loading="lazy">
+    <a href="/team/sydneynewellchesebro" class="portrait" data-style="">
+      <img src="/assets/images/snc_headshot.jpg" class="portrait-image" alt="Headshot of Sydney Newell Chesebro" loading="lazy">
       
       <span class="portrait-text">
         <span class="portrait-name">
-          Sydney N. Chesebro, BS
+          Sydney Newell Chesebro, BS
         </span>
         
         <span class="portrait-role">
-          <span>Study Coordinator</span>
+          <span>Lights Out Study Coordinator</span>
         </span>
       </span>
     </a>
