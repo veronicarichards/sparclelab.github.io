@@ -5,7 +5,7 @@ permalink: /team/sydneynchesebro
 date: 2025-09-19
 excerpt: "Sydney C"
 author_profile: true
-author: Sydney N. Chesebro
+author: Sydney Newell Chesebro
 ---
 
 Sydney Newell Chesebro is the Study Coordinator for SPARCLE Lab's [Lights Out](https://www.sparclelab.com/projects/lightsout) study. Originally from Huntington Beach, California, she earned her BS in Psychology with a minor in Disability Studies from the University of Oregon.
