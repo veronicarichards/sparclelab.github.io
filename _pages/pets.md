@@ -51,7 +51,7 @@ excerpt: "Our research companions!"
 <div class="team-container">
   <div class="portrait-wrapper">
     <div class="portrait" data-style="">
-      <img src="/assets/images/pets/lennyb.png" class="portrait-image" alt="A black male doodle mix." loading="lazy">
+      <img src="/assets/images/pets/lennyb.jpg" class="portrait-image" alt="A black male doodle mix." loading="lazy">
       
       <span class="portrait-text">
         <span class="portrait-name">
@@ -63,7 +63,7 @@ excerpt: "Our research companions!"
 
   <div class="portrait-wrapper">
     <div class="portrait" data-style="">
-      <img src="/assets/images/pets/phillyr.png" class="portrait-image" alt="A brown male tabby cat." loading="lazy">
+      <img src="/assets/images/pets/phillyr.jpg" class="portrait-image" alt="A brown male tabby cat." loading="lazy">
       
       <span class="portrait-text">
         <span class="portrait-name">
@@ -75,7 +75,7 @@ excerpt: "Our research companions!"
 
   <div class="portrait-wrapper">
     <div class="portrait" data-style="">
-      <img src="/assets/images/pets/lolar.png" class="portrait-image" alt="A light blonde female golden mix." loading="lazy">
+      <img src="/assets/images/pets/lolar.jpg" class="portrait-image" alt="A light blonde female golden mix." loading="lazy">
       
       <span class="portrait-text">
         <span class="portrait-name">
@@ -87,7 +87,7 @@ excerpt: "Our research companions!"
 
   <div class="portrait-wrapper">
     <div class="portrait" data-style="">
-      <img src="/assets/images/pets/moomoonc.png" class="portrait-image" alt="A white female dog with a black spot around her eye." loading="lazy">
+      <img src="/assets/images/pets/moomoonc.jpg" class="portrait-image" alt="A white female dog with a black spot around her eye." loading="lazy">
       
       <span class="portrait-text">
         <span class="portrait-name">

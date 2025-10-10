@@ -32,6 +32,8 @@ Our research projects generally focus on understanding risk factors for experien
 
 *What is an alcohol-induced blackout?* Blackouts are common among young adults who drink and are characterized by periods of memory loss resulting from rapid or excessive alcohol consumption. During a blackout, individuals remain awake and may appear fully conscious, yet they are unable to form new memories. This state can increase vulnerability to alcohol-related harms and risky behaviors.
 
+<br>
+
 ---
 
 {% include feature_row id="feature_row1" type="left" %}

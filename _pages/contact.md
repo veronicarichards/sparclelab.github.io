@@ -13,4 +13,4 @@ The SPARCLE Lab is located on the Schusterman Center at OU-Tulsa.
 4502 E 41st Street<br>
 Tulsa, OK, 74135<br>
 
-If you are interested in joining the lab or participating in a research study, please send us an email to [SPARCLElab@ou.edu](SPARCLElab@ou.edu)!
+If you are interested in joining the lab or participating in a research study, please send us an email to [SPARCLElab@ou.edu](mailto:SPARCLElab@ou.edu)!

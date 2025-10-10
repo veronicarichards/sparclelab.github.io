@@ -7,7 +7,7 @@ Veronica L. Richards:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "veronica-richards@ou.edu"
+      url: "mailto:veronica-richards@ou.edu"
     - label: "Faculty Profile"
       icon: "fas fa-fw fa-link"
       url: "https://healthpromotionresearch.org/Faculty/details/veronica-richards-phd-mph"
@@ -15,4 +15,4 @@ Veronica L. Richards:
 Sydney N. Chesebro:
   name        : "Sydney Newell Chesebro"
   bio         : "BS | Study Coordinator"
-  avatar      : "/assets/images/snc_headshot.png"
+  avatar      : "/assets/images/snc_headshot.jpg"

@@ -243,6 +243,16 @@
       display: none;
     }
   }
+  
+  /* Hide the button when there are no links */
+  &:not(:has(li)) button {
+    display: none !important;
+  }
+  
+  /* Alternative: Hide button if author__urls ul is empty */
+  &:has(.author__urls ul:empty) button {
+    display: none !important;
+  }
 }
 
 .author__urls {
@@ -372,4 +382,3 @@
     }
   }
 }
-
