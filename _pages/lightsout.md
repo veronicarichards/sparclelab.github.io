@@ -20,7 +20,7 @@ redirect_from:
 </div>
 
 <p style="text-align: justify;">
-The goals of Lights out are to:
+The goals of Lights Out are to:
 </p>
 
 <ul style="text-align: justify;">
